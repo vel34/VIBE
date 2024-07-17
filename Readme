@@ -3,7 +3,7 @@
 **
  * @file VIBE_Microcontroller_code.ino
  * @brief Firmware running in Seeed XIAO BLE Sense - nRF52840 to use the downloaded arduino library from 
- * Edge impulse pltform for Sound classification. 
+ * Edge impulse platform for Sound classification. 
  * @version 1.0
  * @date 2024-07-02
  * @Velmurugan S [EE21s131]
